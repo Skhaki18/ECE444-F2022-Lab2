@@ -8,4 +8,4 @@ Activity 1 Screenshot:
 
 Activity 2 Screenshots:
 
-![](images/Activity1.png)
+![](images/Activity2A.png)
