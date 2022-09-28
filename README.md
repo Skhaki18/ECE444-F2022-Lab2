@@ -26,3 +26,5 @@ Activity 4 Screenshots:
 ![](images/Activity4C.png)
 
 ![](images/Activity4D.png)
+
+Completed Lab 2
