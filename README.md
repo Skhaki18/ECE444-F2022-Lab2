@@ -17,3 +17,12 @@ Activity 3 Screenshots:
 
 ![](images/Activity3.png)
 
+Activity 4 Screenshots:
+
+![](images/Activity4A.png)
+
+![](images/Activity4B.png)
+
+![](images/Activity4C.png)
+
+![](images/Activity4D.png)
